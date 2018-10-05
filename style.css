@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	background: #ff9280;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 50px 100px;
+}
+
+
+h1{
+	color: #45315d;
+}
+
+.avatar{
+	width: 250px;
+	border: 5px solid #ff2400;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px grey;
+	margin: 10px;
+}
+
+.bio{
+	font-size: 24px;
+}
+
+.networkSC{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	color: #ff2400;
+	text-decoration: none;
+}
+.networkIG{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	color: #45315d;
+	text-decoration: none;
+}
+
+.networkSC:hover{
+	color: #faf7e6;
+}
+.networkIG:hover{
+	color: #faf7e6;
+}
+
+.list-inline{
+
+}
